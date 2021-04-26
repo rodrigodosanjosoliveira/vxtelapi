@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VxTelApi.Data", "VxTelApi.D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VxTelApi.Application", "VxTelApi.Application\VxTelApi.Application.csproj", "{447FED42-0B8A-4E74-BA80-F3044A9DCBA8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VxTelApi", "VxTelApi\VxTelApi.csproj", "{E51D3928-C844-4D6E-9F69-C241923AA08E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VxTelApi.Api", "VxTelApi\VxTelApi.Api.csproj", "{E51D3928-C844-4D6E-9F69-C241923AA08E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VxTelApi.Infra", "VxTelApi.Infra\VxTelApi.Infra.csproj", "{7031402F-2F86-4BAC-8AC7-0B7EEA38BD42}"
 EndProject
