@@ -8,7 +8,7 @@ using VxTel.Domain.Contracts.Services;
 using VxTel.Domain.Dto;
 using VxTelApi.Models;
 
-namespace VxTelApi.Controllers
+namespace VxTelApi.Api.Controllers
 {
     [Route("api/[controller]")]
     [Produces(MediaTypeNames.Application.Json)]
